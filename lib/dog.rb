@@ -11,6 +11,3 @@ class Dog
     @name = name
   end
 end
-
-Dog.new
-Dog.name
