@@ -13,4 +13,4 @@ class Dog
 end
 
 Dog.new(name)
-Dog.name
+
