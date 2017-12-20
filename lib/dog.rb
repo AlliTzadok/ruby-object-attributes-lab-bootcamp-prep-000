@@ -11,3 +11,5 @@ class Dog
     @name = new_name
   end
 end
+
+@new_name = Dog.new
