@@ -12,4 +12,5 @@ class Dog
   end
 end
 
-name = Dog.new
+Dog.new
+Dog.name
