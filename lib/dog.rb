@@ -12,5 +12,3 @@ class Dog
   end
 end
 
-Dog(name).new
-Dog(name).name
